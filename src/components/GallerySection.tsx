@@ -40,7 +40,7 @@ export default function GallerySection() {
           viewport={{ once: true }}
           transition={{ duration: 1 }}
         >
-          Our Story in Frames
+          Her Story in Frames
         </motion.h2>
       </div>
 
