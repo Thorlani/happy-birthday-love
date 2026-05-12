@@ -6,9 +6,9 @@ const words = [
   "You are the light in every shadow,",
   "your love remains my constant north.",
   "the melody in every silence.",
-  "f",
+  "",
   "Today isn't just about celebrating your birth, it's about celebrating the day the world became infinitely more beautiful.",
-  "became infinitely more beautiful."
+  ""
 ];
 
 export default function MessageSection() {
